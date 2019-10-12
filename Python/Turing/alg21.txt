@@ -1,0 +1,6 @@
+0q1->0q1R
+0q2->0q2L
+1q1->1q1R
+1q2->1q2L
+oq1->0q2L
+oq2->oSTR

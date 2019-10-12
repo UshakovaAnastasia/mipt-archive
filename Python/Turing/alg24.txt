@@ -1,0 +1,9 @@
+aq1->oq2R
+bq1->oq3R
+oq1->oSTS
+aq2->aSTS
+bq2->aSTS
+oq2->aSTS
+aq3->bSTS
+bq3->bSTS
+oq3->bSTS
